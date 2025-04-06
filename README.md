@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Daniel Adeabah 👋</h4>
 
 <p align="center">
-  <span>
+  <a href="https://user-badge.committers.top/ghana/danieladeabah">
     <img src="https://user-badge.committers.top/ghana/danieladeabah.svg" alt="Committers Top Badge" />
   </span> out of 11,979
 </p>
