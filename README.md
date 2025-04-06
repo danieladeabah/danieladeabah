@@ -1,4 +1,4 @@
-<h4 align="center">Hi there, I'm Daniel Adeabah 👋</h4>
+<h2 align="center">Hi there, I'm Daniel Adeabah 👋</h4>
 
 <p align="center">
   <a href="https://user-badge.committers.top/ghana/danieladeabah" style="text-decoration: none;">
