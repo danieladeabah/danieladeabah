@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://danieladeabah.vercel.app">Portfolio</a> |
+  <a href="https://danieladeabah.vercel.app/">Portfolio</a> |
   <a href="mailto:danieladeabaa@gmail.com">Email</a>
 </p>
