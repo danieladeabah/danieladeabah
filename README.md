@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://user-badge.committers.top/ghana/danieladeabah">
     <img src="https://user-badge.committers.top/ghana/danieladeabah.svg" alt="Committers Top Badge" />
-  </span> out of 12,420
+  </span> out of 12,462
 </p>
 
 <p align="center">
