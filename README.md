@@ -1,12 +1,5 @@
-<h2 align="center">Hi there👋</h4>
+[![committers.top badge](https://user-badge.committers.top/ghana_private/danieladeabah.svg)](https://user-badge.committers.top/ghana_private/danieladeabah)
 
-<p align="center">
-  <a href="https://user-badge.committers.top/ghana/danieladeabah">
-    <img src="https://user-badge.committers.top/ghana/danieladeabah.svg" alt="Committers Top Badge" />
-  </span>
-</p>
+[![committers.top badge](https://user-badge.committers.top/ghana_public/danieladeabah.svg)](https://user-badge.committers.top/ghana_public/danieladeabah)
 
-<p align="center">
-  <a href="https://danieladeabah.com">Portfolio</a> |
-  <a href="mailto:danieladeabaa@gmail.com">Email</a>
-</p>
+[![committers.top badge](https://user-badge.committers.top/ghana/danieladeabah.svg)](https://user-badge.committers.top/ghana/danieladeabah)
